@@ -1,0 +1,3 @@
+variable "allUserList" {
+    type=list
+}
